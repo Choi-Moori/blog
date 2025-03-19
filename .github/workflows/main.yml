@@ -40,7 +40,7 @@ jobs:
         run: git diff  # 변경 사항 확인
 
       - name: Commit README
-        if: steps.verify_diff.outputs.changed == 'true'
+        if: ${{ steps.verify_diff.outputs.changed == 'true' }}
         run: |
           git config --local user.email "anflwkd@gmail.com"
           git config --local user.name "Choi-Moori"
