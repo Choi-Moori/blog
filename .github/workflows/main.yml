@@ -28,6 +28,9 @@ jobs:
           if [ ! -f README.md ]; then
             echo "# README 자동생성" > README.md
             echo "README 는 Github Actions에 의해 자동 생성 되었음" >> README.md
+            git add .
+            git commit -m "Update README.md"
+            git push origin main
           fi
 
       - name: Update README
