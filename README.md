@@ -1,1 +1,14 @@
-.
+# Hi there 👋
+
+## 이런 환경에 익숙해요✍🏼
+
+## 언어
+
+<p>
+  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
+</p>
+
+## 📕 Latest Blog Posts
+
+<ul><li><a href='https://moori-ch.tistory.com/entry/Java-%EC%9E%90%EB%B0%94-API-%EC%99%80-REST-API' target='_blank'>[ Java / 자바 ] API 와 REST API</a></li><li><a href='https://moori-ch.tistory.com/entry/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EA%B0%9D%EC%B2%B4%EC%84%A4%EA%B3%84' target='_blank'>오브젝트 - 1주(객체,설계)</a></li><li><a href='https://moori-ch.tistory.com/entry/Java-Feign-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-HttpUrlConnection-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0' target='_blank'>[ Java ] Feign 클라이언트 성능 최적화 : HttpUrlConnection의 이슈</a></li><li><a href='https://moori-ch.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8-6%EC%9E%A5-%EA%B0%9D%EC%B2%B4-%EC%A7%80%EB%8F%84' target='_blank'>객체지향의 사실과 오해 - 조영호 (6장 객체 지도)</a></li><li><a href='https://moori-ch.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8-5%EC%9E%A5-%EC%B1%85%EC%9E%84%EA%B3%BC-%EB%A9%94%EC%8B%9C%EC%A7%80' target='_blank'>객체지향의 사실과 오해 - 조영호 (5장 책임과 메시지)</a></li><li><a href='https://moori-ch.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8-4%EC%9E%A5' target='_blank'>객체지향의 사실과 오해 - 조영호 (4장 역할, 책임, 협력)</a></li><li><a href='https://moori-ch.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8-34%EC%9E%A5' target='_blank'>객체지향의 사실과 오해 - 조영호 (3장 타입과 추상화)</a></li><li><a href='https://moori-ch.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4-%EC%A1%B0%EC%98%81%ED%98%B8' target='_blank'>객체지향의 사실과 오해 - 조영호 (1장 협력하는 객체들의 공동체)</a></li><li><a href='https://moori-ch.tistory.com/entry/Java%EC%9E%90%EB%B0%94-LinkedList-%EC%99%80-ArrayList-%EC%8B%9C%EA%B0%84-%EC%B0%A8%EC%9D%B4' target='_blank'>[ Java/자바 ] LinkedList 와 ArrayList 시간 차이</a></li><li><a href='https://moori-ch.tistory.com/entry/%EA%B5%AC%EB%A7%A4%ED%95%B4%EC%84%9C-%EA%B3%B5%EB%B6%80%ED%95%A0-%EC%B1%85-%EA%B8%B0%EB%A1%9D%EC%9A%A9' target='_blank'>구매해서 공부할 책 기록용</a></li></ul>
