@@ -36,6 +36,9 @@ jobs:
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
 
+      - name: Debug: Show changes
+        run: git diff  # 변경 사항 확인
+
       - name: Commit README
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
